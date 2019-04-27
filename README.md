@@ -1,5 +1,5 @@
 ## Clear Moon Project
-<center><img src="https://i.ibb.co/2NCCwSr/banner.png"></center><br>
+<img src="https://i.ibb.co/2NCCwSr/banner.png"><br>
 In this repo, Clear Moon was created. Clear Moon is a responsive web application that helps those interested in viewing the Moon phases and the International Space Station. Great for a date night or a family gathering around a cozy camp fire exploring the Universe, it is now possible to get a forecast of some amazing things! One of the biggest obstacles for viewing the night sky is the ever changing weather. It’s now possible by using API’s provided by scientists from around the world.
 <br><br>
 Our motivation for building this application comes from our concern for the lack of interest in Science. A lot of people have become attuned to staying inside or going out, but not outside. The general population tends to forget the untamed environment beyond our atmosphere. <i>We're here to bring awareness!</i>
